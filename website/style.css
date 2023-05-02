@@ -1,0 +1,43 @@
+.myDiv {
+	display: none;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-top: 20px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+.myDiv:nth-child(odd) {
+	background-color: #394867;
+}
+
+.myDiv:nth-child(even) {
+	background-color: #394867;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+    color:#212A3E;
+}
+
+h3{
+    color:#212A3E;
+}
+
+body{
+    margin: 30px;
+    background-color: #a8c9dd;
+}
+
+select {
+	font-size: 20px;
+	margin-top: 5px;
+	padding: 10px;
+	border-radius: 10px;
+	border: none;
+	background-color: #f2f2f2;
+	color: #333;
+}
