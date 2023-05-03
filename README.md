@@ -1,5 +1,5 @@
 # CourseFuse
-Python, Neo4j based project for graph-based similarity using BERT and cosine similarity.  
+Python, Neo4j based project for graph-based similarity using BERT and Cosine Similarity.  
 Case Study - Syllabus Matching   
 
 Supervised by:- Dr Ujwala Bharambe
